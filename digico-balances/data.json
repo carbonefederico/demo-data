@@ -13,6 +13,13 @@
         "btc_wallet": "1.2",
         "eth_wallet": "12"
     },
+    "fc.cs@mailinator.com": {
+        "balance": "78.655",
+        "change": "+3.59%",
+        "euro_wallet": "2000",
+        "btc_wallet": "1.2",
+        "eth_wallet": "12"
+    },
     "zero": {
         "balance": "0",
         "change": "0%",
