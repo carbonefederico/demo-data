@@ -1,0 +1,9 @@
+[
+  {
+    "country":"IT",
+    "name":"Italy Payer 1",
+    "payment_method": "Credit Card - **** **** **** 8457",
+    "payment_amount": "100€",
+    "email":"it-payer-1@customer.com"
+  }
+]
