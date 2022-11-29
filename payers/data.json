@@ -16,7 +16,7 @@
     "marketing-consent":true
   },
   {
-    "country":"UK",
+    "country":"GB",
     "name":"United Kingdom Payer 1",
     "payment_method": "Credit Card - **** **** **** 4312",
     "payment_amount": "1000€",
