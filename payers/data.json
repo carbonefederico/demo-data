@@ -21,6 +21,14 @@
     "payment_method": "Credit Card - **** **** **** 4312",
     "payment_amount": "1000€",
     "email":"uk-payer-1@customer.com",
+    "marketing-consent":false
+  },
+  {
+    "country":"FR",
+    "name":"France Payer 1",
+    "payment_method": "Credit Card - **** **** **** 3321",
+    "payment_amount": "1000€",
+    "email":"fr-payer-1@customer.com",
     "marketing-consent":true
   }
 ]
